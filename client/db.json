@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "d7be",
+      "name": "Jam",
+      "email": "jam@example.com",
+      "password": "Jam@123",
+      "token": "MTk5MzU5MzI3Mw=="
+    }
+  ]
+}
